@@ -16,11 +16,6 @@ A minimal, dark-themed desktop markdown viewer for Linux. Opens `.md` files and 
 - **Drag & drop** — drop a `.md` file onto the window to open it
 - **Zero config** — single file, no build step, no settings to tweak
 
-## Screenshot
-
-<!-- Add a screenshot here: -->
-<!-- ![screenshot](screenshot.png) -->
-
 ## Installation
 
 ### Prerequisites
