@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Dark MD Reader
+Comment=A minimal dark-themed markdown file viewer
+Exec=python3 /path/to/md_reader.py %f
+Icon=text-markdown
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;Viewer;
+MimeType=text/markdown;text/x-markdown;
+StartupNotify=true
