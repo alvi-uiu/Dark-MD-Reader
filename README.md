@@ -41,8 +41,8 @@ sudo pacman -S python python-pyqt5 python-pyqt5-webengine python-markdown python
 ### Clone & Run
 
 ```bash
-git clone https://github.com/alvi-uiu/dark-md-reader.git
-cd dark-md-reader
+git clone https://github.com/alvi-uiu/Dark-MD-Reader.git
+cd Dark-MD-Reader
 python3 md_reader.py
 ```
 
@@ -83,7 +83,7 @@ xdg-mime default md-reader.desktop text/x-markdown
 ## Project Structure
 
 ```
-dark-md-reader/
+Dark-MD-Reader/
 ├── md_reader.py          # The entire app (single file)
 ├── md-reader.desktop     # Linux desktop entry for app integration
 ├── LICENSE
